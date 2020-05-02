@@ -14,6 +14,6 @@ $description = "";
 $keyword = "";
 $pageTitle = "Nous contacter";
 
-require_once "views/{$target}.php";
+require_once "views/{$file}.php";
 
 ?>

@@ -32,7 +32,7 @@
 
 
 <!-- Specific Content -->
-<?= $pageView; ?>
+<?= $content; ?>
 <!-- End Specific Content -->
 
 
